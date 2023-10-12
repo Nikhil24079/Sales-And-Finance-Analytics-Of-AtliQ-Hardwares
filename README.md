@@ -4,7 +4,7 @@
 **Project Goals:**
 
 1. **Customer Performance Report:** Created a detailed [report](https://github.com/Nikhil24079/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/Customer%20Performance%20Report.pdf) to assess customer performance.
-2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf) against sales targets.
+2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/Nikhil24079/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
@@ -16,8 +16,8 @@
 
 **Project Goals:**
 
-1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
-2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf).
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/Nikhil24079/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [P&L reports by fiscal months](https://github.com/Nikhil24079/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Months.pdf).
+2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/Nikhil24079/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
@@ -41,6 +41,5 @@
 - Optimizing report generation through meticulous fine-tuning.
 - Developing a systematic approach to creating report-building plans.
 
-Find the detailed project reports [here](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/tree/main).
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
